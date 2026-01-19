@@ -189,15 +189,27 @@ wireplumber
 spice-vdagent
 
 ### Desktop
+2bwm
+9wm
+aewm
 awesome
+berry
 bspwm
 blackbox
 ctwm
+dk
+dwm
+eggwm-qt5
+evilwm
+frankenwm
 fluxbox
 fvwm
 herbstluftwm
 icewm
 jwm
+karmen
+leftwm
+leftwm-monsystemd
 metacity
 notion
 openbox
@@ -205,8 +217,14 @@ openmotif
 pekwm
 qtile
 stumpwm
+spectrwm
 tvwm3
+ude
+vtwm
 windowmaker
+wingo
+worm
 xmonad
 xorg-twm
+zwm
 
