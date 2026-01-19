@@ -167,6 +167,7 @@ plymouth
 xorg
 xorg-drivers
 xorg-fonts
+wayland
 
 ### Display Manager
 lightdm
